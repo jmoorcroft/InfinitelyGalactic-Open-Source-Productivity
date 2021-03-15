@@ -1,4 +1,5 @@
 # InfinitelyGalactic-Open-Source-Productivity
+
 [Video Link](https://youtu.be/j3koOJRUWCc)
 
 ## Web & Email
@@ -59,32 +60,36 @@
 | ---------------- | ---- | ------------------- | -------- | ---- | ----- |
 | VS Code          |      |                     |          |      |       |
 | Video production |      |                     |          |      |       |
-| KDenlive         |
-| Blender          |
-| Natron           |      | Adobe After Effects |
+| KDenlive         |      |                     |          |      |       |
+| Blender          |      |                     |          |      |       |
+| Natron           |      | Adobe After Effects |          |      |       |
 
 ## Productivity
+
 | NAME          | TYPE | SIMLAR TO | DOWNLOAD | REPO | FLAGS |
 | ------------- | ---- | --------- | -------- | ---- | ----- |
-| Joplin        |      | OneNote   |
+| Joplin        |      | OneNote   |          |      |       |
 | Simplenote    |      |           |          |      |       |
 | StandardNotes |      |           |          |      |       |
 
 ## Photo
+
 | NAME        | TYPE | SIMLAR TO               | DOWNLOAD | REPO | FLAGS |
 | ----------- | ---- | ----------------------- | -------- | ---- | ----- |
-| digiKam     |      | photo library managment |
+| digiKam     |      | photo library managment |          |      |       |
 | darktable   |      |                         |          |      |       |
 | RAWTherapee |      |                         |          |      |       |
 
 ## Music
+
 | NAME       | TYPE | SIMLAR TO | DOWNLOAD | REPO | FLAGS |
 | ---------- | ---- | --------- | -------- | ---- | ----- |
 | Strawberry |      |           |          |      |       |
 
 ## Office Suite
+
 | NAME         | TYPE | SIMLAR TO      | DOWNLOAD | REPO | FLAGS |
 | ------------ | ---- | -------------- | -------- | ---- | ----- |
 | Libre Office |      |                |          |      |       |
 | Only Office  |      |                |          |      |       |
-| Scribus      |      | Adobe InDesign |
+| Scribus      |      | Adobe InDesign |          |      |       |
