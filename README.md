@@ -58,8 +58,11 @@
 
 | NAME             | TYPE | SIMLAR TO           | DOWNLOAD | REPO | FLAGS |
 | ---------------- | ---- | ------------------- | -------- | ---- | ----- |
-| VS Code          |      |                     |          |      |       |
-| Video production |      |                     |          |      |       |
+| VS Code          |  Code Editor |  Notepad++, Sublime Text, Atom  |          |      |       |
+
+## Video production 
+| NAME             | TYPE | SIMLAR TO           | DOWNLOAD | REPO | FLAGS |
+| ---------------- | ---- | ------------------- | -------- | ---- | ----- |
 | KDenlive         |      |                     |          |      |       |
 | Blender          |      |                     |          |      |       |
 | Natron           |      | Adobe After Effects |          |      |       |
@@ -72,7 +75,7 @@
 | Simplenote    |      |           |          |      |       |
 | StandardNotes |      |           |          |      |       |
 | [FocalBoard](https://www.focalboard.com/) |    Project Management   |   Noton, Trello        |          |  [Link](https://github.com/mattermost/focalboard)    |       |
-| [Cal](https://cal.com/) |      |  Appointment Scheduling         |   Calendly       |    [Link](https://github.com/calcom/cal.com)     |    |
+| [Cal](https://cal.com/) | Appointment Scheduling         |   Calendly    |          |    [Link](https://github.com/calcom/cal.com)     |    |
 
 ## Photo
 
@@ -80,7 +83,7 @@
 | ----------- | ---- | ----------------------- | -------- | ---- | ----- |
 | digiKam     |      | photo library managment |          |      |       |
 | darktable   |      |                         |          |      |       |
-| RAWTherapee |      |                         |          |      |       |
+| RAWTherapee | Photo Editor |   Lightroom        |          |      |       |
 
 ## Music
 
@@ -92,6 +95,6 @@
 
 | NAME         | TYPE | SIMLAR TO      | DOWNLOAD | REPO | FLAGS |
 | ------------ | ---- | -------------- | -------- | ---- | ----- |
-| Libre Office |      |                |          |      |       |
-| Only Office  |      |                |          |      |       |
+| Libre Office |      |  Microsoft Office, Google Docs              |          |      |       |
+| Only Office  |      |  Microsoft Office, Google Docs              |          |      |       |
 | Scribus      |      | Adobe InDesign |          |      |       |
