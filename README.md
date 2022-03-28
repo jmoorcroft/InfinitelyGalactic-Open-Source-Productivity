@@ -71,6 +71,8 @@
 | Joplin        |      | OneNote   |          |      |       |
 | Simplenote    |      |           |          |      |       |
 | StandardNotes |      |           |          |      |       |
+| (FocalBoard)[https://www.focalboard.com/] |    Project Management   |   Noton, Trello        |          |  (Link)[https://github.com/mattermost/focalboard]    |       |
+| (Cal)[https://cal.com/] |      |  Appointment Scheduling         |   Calendly       |      |  (Link)[https://github.com/calcom/cal.com]     |
 
 ## Photo
 
